@@ -589,32 +589,6 @@ const LandingPage: React.FC<LandingPageProps> = ({ onShowAuth }) => {
         </div>
       </section>
 
-      {/* Experience Section */}
-      <section className="py-20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="bg-gradient-to-r from-gray-900 to-blue-900 rounded-2xl p-12 text-white text-center">
-            <h2 className="text-4xl font-bold mb-6">A Decade of Innovation Excellence</h2>
-            <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto">
-              For over 10 years, we've been the trusted partner for exceptional innovators, 
-              helping them achieve recognition and advance their careers through rigorous expert evaluation.
-            </p>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-              <div>
-                <div className="text-4xl font-bold text-yellow-400 mb-2">10+</div>
-                <div className="text-blue-100">Years of Excellence</div>
-              </div>
-              <div>
-                <div className="text-4xl font-bold text-yellow-400 mb-2">2,500+</div>
-                <div className="text-blue-100">Innovations Evaluated</div>
-              </div>
-              <div>
-                <div className="text-4xl font-bold text-yellow-400 mb-2">95%</div>
-                <div className="text-blue-100">Success Rate</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* CTA Section */}
       <section className="py-20 bg-gradient-to-r from-blue-600 to-purple-600">
